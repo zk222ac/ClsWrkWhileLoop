@@ -14,6 +14,7 @@ namespace ClsWrkWhileLoop
             // Step 1: declare Initialize variable
             int i = 0;
 
+
             //Step 2: Define while Loop and check the condition
             while (i < 5)
             {
